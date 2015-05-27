@@ -1,6 +1,4 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Markovian}
+# Markovian
 
 A simple Markov Network implementation that supports brute force partitioning, variable elimination, and Loopy Belief Propagation.
 
